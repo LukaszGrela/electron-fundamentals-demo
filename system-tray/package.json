@@ -1,0 +1,16 @@
+{
+  "name": "system-tray",
+  "productName": "System Tray Demo",
+  "version": "1.0.0",
+  "description": "pluralsight electron-fundamentals course app",
+  "main": "src/main.js",
+  "author": "Lukasz 'Severiaan' Grela",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^2.0.2"
+  }
+}
