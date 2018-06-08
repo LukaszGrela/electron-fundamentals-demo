@@ -12,3 +12,6 @@ In this app we are adding tray icon with custom menu
 
 ## Clipboard demo
 Here the `clipboard` API is investigated.
+
+ ## (Desktop) Screenshot demo
+ App that allows to take screenshots of the desktop and save it locally.
